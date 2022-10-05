@@ -1,6 +1,8 @@
 # A Whale of a Portfolio
 ## Create Portfolio
 
+Python File to open "portfolio_investment_analyser.ipynb".
+
 We have created a Financial Investment Analyser.  This tool analyses a number of risk scenarios to create a considered investment portfolio dependent on a number of client variables.   <br>
 <br>
 We have drawn down our Finance data using the yFinance API.   <br>
